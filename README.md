@@ -1,2 +1,2 @@
 # snak
-this is mern stack chatting application made by beginner
+this is simple mern stack chatting application
